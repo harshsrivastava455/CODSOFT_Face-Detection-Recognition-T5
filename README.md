@@ -26,7 +26,6 @@ OS module
 
 📂 Project Structure face-recognition/ │ ├── dataset/ # Training images (person-wise folders) ├── trainer.yml # Trained face recognition model ├── face_recognition.py # Main program ├── haarcascade_frontalface_default.xml ├── README.md # Project documentation └── requirements.txt
 
-⚙️ Installation & Setup 1️⃣ Clone the repository git clone https://github.com/your-username/face-recognition.git cd face-recognition
 
 2️⃣ Install required libraries pip install opencv-python numpy
 
